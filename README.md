@@ -1,7 +1,5 @@
 # VergleichsSudoku
 
-### Aluno: Vitor Fernando da
-
 ---
 
     VergleichsSudoku é um quebra-cabeça lógico semelhante ao Sudoku. Para além de todas as regras do jogo Sudoku, o jogador deve inserir um número em cada campo, para que todas as condições de comparação sejam atendidas.
