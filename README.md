@@ -85,7 +85,7 @@ A saída se dá pelo terminal junto de uma mensagem com o status da solução (c
 
 Exemplo saída:
 
-![exemplo-saida.png](/run/media/HD/Documentos/Github/VergleichsSudoku/images/exemplo-saida.png)
+![exemplo-saida.png](images/exemplo-saida.png)
 
 ## 3 - Descrição da solução
 
