@@ -1,6 +1,6 @@
 # VergleichsSudoku
 
-### Aluno: Vitor Fernando da Silva
+### Aluno: Vitor Fernando da
 
 ---
 
