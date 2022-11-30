@@ -4,7 +4,7 @@
 
 ---
 
-    [VergleichsSudoku](https://www.janko.at/Raetsel/Sudoku/Vergleich/index.htm) é um quebra-cabeça lógico semelhante ao Sudoku. Para além de todas as regras do jogo Sudoku, o jogador deve inserir um número em cada campo, para que todas as condições de comparação sejam atendidas.
+    VergleichsSudoku é um quebra-cabeça lógico semelhante ao Sudoku. Para além de todas as regras do jogo Sudoku, o jogador deve inserir um número em cada campo, para que todas as condições de comparação sejam atendidas.
 
 ---
 
@@ -12,20 +12,6 @@
 
 1. Escreva números de 1 a N nas células da grade de tamanho NxN, para que cada número ocorra exatamente uma vez em cada linha, em cada coluna e em cada região.
 2. Os sinais ">" entre duas células indicam que o número na célula que aponta é maior que o número na célula apontada.
-
----
-
-# Exemplo (9x9)
-
-## Vazio
-
-<div>
-    <img  src="images/exemplo-vazio.png" ></img>
-</div>
-
-## Completo
-
-<div><img  src="images/exemplo-completo.png" ></img></div>
 
 ---
 
@@ -82,10 +68,6 @@ object Main {
 ## 2 - Saída
 
 A saída se dá pelo terminal junto de uma mensagem com o status da solução (correto, incorreto) e o tabuleiro com as alterações feitas.
-
-Exemplo saída:
-
-![exemplo-saida.png](images/exemplo-saida.png)
 
 ## 3 - Descrição da solução
 
