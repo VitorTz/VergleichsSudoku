@@ -1,6 +1,6 @@
 # VergleichsSudoku
 
-### Aluno: Vitor Fernando da Silva (20201566)
+### Aluno: Vitor Fernando da Silva
 
 ---
 
