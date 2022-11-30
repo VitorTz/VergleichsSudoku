@@ -226,7 +226,7 @@ object Solution {
 object Main {
   def main(args: Array[String]): Unit = {
     // Definição do puzzle e da ordem
-    val puzzleName = "n-11"
+    val puzzleName = "n-12"
     val ordem = 9
     // Carrega o puzzle da pasta puzzles/ a partir do nome puzzleName
     val puzzle = LoadPuzzle.load(puzzleName, ordem)
