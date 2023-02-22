@@ -2,6 +2,8 @@
 
 ---
 
+> Trabalho feito para a disciplina de Paradigmas de Programação
+
     O VergleichsSudoku é uma variação do tradicional jogo de Sudoku, no qual, além das restrições tradicionais de que cada linha, coluna e bloco devem conter números únicos de 1 a 9, também são fornecidas algumas comparações adicionais entre as células do tabuleiro. Essas comparações são feitas utilizando símbolos matemáticos, como menor que (<), maior que (>), igual a (=) e diferentes de (≠), e devem ser respeitadas pelos números presentes nas células envolvidas.
 
     Para a implementação da solução em Scala, foi utilizado o algoritmo de backtracking, que é uma técnica de busca exaustiva utilizada para resolver problemas de decisão, como é o caso do VergleichsSudoku. O algoritmo consiste em construir iterativamente uma solução, testá-la e, caso seja inválida, retroceder para uma escolha anterior e fazer outra tentativa. Esse processo é repetido até que uma solução válida seja encontrada.
